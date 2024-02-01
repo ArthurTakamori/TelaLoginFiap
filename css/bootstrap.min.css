@@ -1,0 +1,103 @@
+.main__container{
+    margin: .7rem .5rem .5rem .5rem;
+    box-sizing: border-box;
+    max-height: 100vh;
+    max-width: 98vw;
+}
+
+.form__container{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 97vh; 
+    padding: 0 15%; 
+    column-gap: 2rem; 
+    border: 2px solid rgba(66, 64, 64, 0.207); 
+    margin: .5rem; 
+    border-radius: .25rem;
+}
+
+.form__area{
+    text-align: center; 
+    line-height: 2rem; 
+    font-size: 13px; 
+    font-weight: 400;
+}
+
+.title{
+    padding-bottom: 1rem; 
+    font-size: 25px;
+}
+
+#idMail{
+    text-align: center; 
+    font-size: 13px; 
+    border: 1px solid #00000041; 
+    border-radius: .25rem;
+}
+
+#idPw {
+    text-align: center; 
+    font-size: 13px; 
+    border: 1px solid #00000041; 
+    border-radius: .25rem;
+}
+
+.btn__index {
+    color: #000000; 
+    font-weight: 500; 
+    margin-top: .5rem;
+}
+
+.index__text {
+    font-size: .75rem; 
+    margin-top: .4rem; 
+    margin-bottom: 0.1rem;
+}
+
+.index__hyper {
+    color: #00000077; 
+    font-weight: 700;
+}
+
+.login__path {
+    font-size: .8rem; 
+    font-weight: 500;
+}
+
+.form__container2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    padding: 0% 15% 15% 15%;
+}
+
+.form__container2 h1{
+    padding-top: 7rem; 
+    font-size: 25px; 
+    text-align: start; 
+    width: 80%;
+}
+
+.input__element{
+    text-align: start; 
+    padding-bottom: .5rem;
+}
+
+.input__element input{
+    font-size: 13px; 
+    border-radius: .25rem;
+}
+
+.checkbox {
+    padding: 1rem 0 .5rem 1.5rem; 
+    font-size: medium;
+}
+
+.was-validated button {
+    color: #FFFFFF; 
+    font-weight: 400; 
+    margin-top: .5rem;
+}
+
